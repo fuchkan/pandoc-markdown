@@ -7,3 +7,7 @@ Ova dokumentacija služi u svrhu primjene Pandoc-a za konverziju datoteka, odnos
 
 <img src="Tux.svg.png" width="30%">
 
+
+```
+print ('Hello Wold!')
+```
