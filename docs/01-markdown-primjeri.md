@@ -12,5 +12,5 @@ Ako želim koristiti naslovne razine potrebno je unijeti slijedeću sintaksu
 #### Naslov 4
 ```
 
-##Pandoc
-#Konverzija iz .md  u .html formatu
+## Pandoc
+# Konverzija iz .md  u .html formatu
